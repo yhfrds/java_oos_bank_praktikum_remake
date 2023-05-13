@@ -22,6 +22,8 @@ public class Main {
         transfer2.printObject();
         transfer3.printObject();
 
+        // Praktikum 1 Remade is done.
+
 
     }
 }
