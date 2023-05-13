@@ -22,6 +22,6 @@ public class Main {
         transfer2.printObject();
         transfer3.printObject();
 
-        System.out.println("Test apakah muncul");
+
     }
 }
